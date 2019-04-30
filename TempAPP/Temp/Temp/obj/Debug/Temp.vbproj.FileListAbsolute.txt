@@ -1,0 +1,12 @@
+C:\Users\sergio\Desktop\TempAPP\Temp\Temp\bin\Debug\Temp.exe.config
+C:\Users\sergio\Desktop\TempAPP\Temp\Temp\bin\Debug\Temp.exe
+C:\Users\sergio\Desktop\TempAPP\Temp\Temp\bin\Debug\Temp.pdb
+C:\Users\sergio\Desktop\TempAPP\Temp\Temp\bin\Debug\Temp.xml
+C:\Users\sergio\Desktop\TempAPP\Temp\Temp\obj\Debug\Temp.vbprojAssemblyReference.cache
+C:\Users\sergio\Desktop\TempAPP\Temp\Temp\obj\Debug\Temp.mainForm.resources
+C:\Users\sergio\Desktop\TempAPP\Temp\Temp\obj\Debug\Temp.Resources.resources
+C:\Users\sergio\Desktop\TempAPP\Temp\Temp\obj\Debug\Temp.vbproj.GenerateResource.cache
+C:\Users\sergio\Desktop\TempAPP\Temp\Temp\obj\Debug\Temp.vbproj.CoreCompileInputs.cache
+C:\Users\sergio\Desktop\TempAPP\Temp\Temp\obj\Debug\Temp.exe
+C:\Users\sergio\Desktop\TempAPP\Temp\Temp\obj\Debug\Temp.xml
+C:\Users\sergio\Desktop\TempAPP\Temp\Temp\obj\Debug\Temp.pdb
