@@ -41,7 +41,7 @@ Partial Class mainForm
         '
         'btnStart
         '
-        Me.btnStart.Location = New System.Drawing.Point(22, 38)
+        Me.btnStart.Location = New System.Drawing.Point(22, 82)
         Me.btnStart.Margin = New System.Windows.Forms.Padding(4)
         Me.btnStart.Name = "btnStart"
         Me.btnStart.Size = New System.Drawing.Size(127, 43)
@@ -52,56 +52,56 @@ Partial Class mainForm
         'txtHours
         '
         Me.txtHours.AutoSize = True
-        Me.txtHours.Font = New System.Drawing.Font("Consolas", 35.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtHours.Location = New System.Drawing.Point(252, 48)
+        Me.txtHours.Font = New System.Drawing.Font("Consolas", 50.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txtHours.Location = New System.Drawing.Point(187, 48)
         Me.txtHours.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.txtHours.Name = "txtHours"
-        Me.txtHours.Size = New System.Drawing.Size(94, 69)
+        Me.txtHours.Size = New System.Drawing.Size(134, 98)
         Me.txtHours.TabIndex = 1
         Me.txtHours.Text = "00"
         '
         'txtP1
         '
         Me.txtP1.AutoSize = True
-        Me.txtP1.Font = New System.Drawing.Font("Consolas", 35.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtP1.Location = New System.Drawing.Point(328, 48)
+        Me.txtP1.Font = New System.Drawing.Font("Consolas", 50.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txtP1.Location = New System.Drawing.Point(289, 48)
         Me.txtP1.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.txtP1.Name = "txtP1"
-        Me.txtP1.Size = New System.Drawing.Size(62, 69)
+        Me.txtP1.Size = New System.Drawing.Size(88, 98)
         Me.txtP1.TabIndex = 2
         Me.txtP1.Text = ":"
         '
         'txtMin
         '
         Me.txtMin.AutoSize = True
-        Me.txtMin.Font = New System.Drawing.Font("Consolas", 35.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtMin.Location = New System.Drawing.Point(368, 48)
+        Me.txtMin.Font = New System.Drawing.Font("Consolas", 50.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txtMin.Location = New System.Drawing.Point(341, 48)
         Me.txtMin.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.txtMin.Name = "txtMin"
-        Me.txtMin.Size = New System.Drawing.Size(94, 69)
+        Me.txtMin.Size = New System.Drawing.Size(134, 98)
         Me.txtMin.TabIndex = 3
         Me.txtMin.Text = "00"
-        Me.txtMin.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.txtMin.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
         'txtP2
         '
         Me.txtP2.AutoSize = True
-        Me.txtP2.Font = New System.Drawing.Font("Consolas", 35.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtP2.Location = New System.Drawing.Point(445, 48)
+        Me.txtP2.Font = New System.Drawing.Font("Consolas", 50.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txtP2.Location = New System.Drawing.Point(448, 49)
         Me.txtP2.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.txtP2.Name = "txtP2"
-        Me.txtP2.Size = New System.Drawing.Size(62, 69)
+        Me.txtP2.Size = New System.Drawing.Size(88, 98)
         Me.txtP2.TabIndex = 4
         Me.txtP2.Text = ":"
         '
         'txtSec
         '
         Me.txtSec.AutoSize = True
-        Me.txtSec.Font = New System.Drawing.Font("Consolas", 35.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtSec.Location = New System.Drawing.Point(487, 48)
+        Me.txtSec.Font = New System.Drawing.Font("Consolas", 50.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txtSec.Location = New System.Drawing.Point(502, 49)
         Me.txtSec.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.txtSec.Name = "txtSec"
-        Me.txtSec.Size = New System.Drawing.Size(94, 69)
+        Me.txtSec.Size = New System.Drawing.Size(134, 98)
         Me.txtSec.TabIndex = 5
         Me.txtSec.Text = "00"
         '
@@ -111,7 +111,7 @@ Partial Class mainForm
         '
         'btnReset
         '
-        Me.btnReset.Location = New System.Drawing.Point(22, 133)
+        Me.btnReset.Location = New System.Drawing.Point(22, 149)
         Me.btnReset.Margin = New System.Windows.Forms.Padding(4)
         Me.btnReset.Name = "btnReset"
         Me.btnReset.Size = New System.Drawing.Size(127, 33)
