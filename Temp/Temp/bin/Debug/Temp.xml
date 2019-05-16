@@ -1,0 +1,54 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Temp
+</name>
+</assembly>
+<members>
+<member name="T:Temp.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Temp.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Temp.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:Temp.mainForm.btnStart_Click(System.Object,System.EventArgs)">
+ <summary>
+ Start/Pause button events
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Temp.mainForm.btnReset_Click(System.Object,System.EventArgs)">
+ <summary>
+ Reset button events
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Temp.mainForm.mainForm_Load(System.Object,System.EventArgs)">
+ <summary>
+ Form initialization
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Temp.mainForm.tmrRefreshForm_Tick(System.Object,System.EventArgs)">
+ <summary>
+ Form timer
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+</members>
+</doc>
